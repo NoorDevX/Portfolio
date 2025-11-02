@@ -6,7 +6,7 @@ Student developer building GUI and interactive games in Java & Python
 
 ## Skills
 - **Programming Languages:** Python, Java, C, C++, SQL, JavaScript, CSS, HTML
-- **Game Development:** GUI +Interactuve games
+- **Game Development:** GUI +Interactive games
 
 ---
 
